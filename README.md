@@ -8,4 +8,4 @@ cd spring-data-neo4j-imdb/;
 mvn jetty:run;
 ~~~
 
-Open http://localhost:8080/imdb/setup.html and install the imdb dataset.
+Open <http://localhost:8080/imdb/setup.html> and install the imdb dataset.
